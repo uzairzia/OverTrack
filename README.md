@@ -7,12 +7,12 @@ Alternatively, the repo can be cloned and launched locally using
 ``` Rails server ```
 
 ## Screenshot
-![Matches Index Page](screenshots/matches.png)
+![Matches Index Page](screenshots/matches.png) </br>
 
-# ERD Diagram
+# ERD Diagram </br>
 Entity Relationship diagram for this project showing all the tables and their respective attributes.
-![Matches Index Page](screenshots/erd.png)
+![Matches Index Page](screenshots/erd.png) </br>
 
-# Relational Schema
+# Relational Schema </br>
 The non-normalized schema is given below. The arrows denote the Foreign Key relations.
 ![Matches Index Page](screenshots/schema.png)
